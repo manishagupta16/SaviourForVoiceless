@@ -199,6 +199,7 @@
 	font-size: 36px;
 	color: black;
 	margin-top: 40px;
+	margin-left: 10px;
 }
 .content-section .content h3{
 	margin-top: 20px;
@@ -408,7 +409,7 @@ img {vertical-align: middle;}
 }
 
 input{
-    width: 398px;
+    width: 380px;
     padding: 12px 20px;
     margin: 10px -12px;
     display: inline-block;
@@ -457,7 +458,7 @@ h1{
 }
 
 .form-group input{
-	width: 470px;
+	width: 380px;
 	text-align: center;
 	align-items: center;
 	margin-left:1px;
@@ -470,7 +471,7 @@ h1{
 }
 
 .form-group textarea{
-	width: 470px;
+	width: 380px;
 }
 
 .mail-container .mail-form form .form-group .button{
